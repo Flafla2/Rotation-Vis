@@ -10,17 +10,17 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: fb60d4640ce28b94492994ace5402f24,
         type: 3}
       propertyPath: m_Name
-      value: bunny
+      value: Bunny
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: fb60d4640ce28b94492994ace5402f24,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.93
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: fb60d4640ce28b94492994ace5402f24,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.61
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: fb60d4640ce28b94492994ace5402f24,
         type: 3}
@@ -72,5 +72,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: fb7010012180f5842b69919cf6b87012, type: 2}
+    - target: {fileID: -5975033157549033438, guid: fb60d4640ce28b94492994ace5402f24,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb60d4640ce28b94492994ace5402f24, type: 3}
